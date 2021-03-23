@@ -12,7 +12,7 @@
   box-sizing: content-box;
 }
 body {
-  font-size: 15px;
+  font-size:  15px;
   font-family: "Spartan", sans-serif;
   background: url(./images/bg-pattern-top-desktop.svg),
     url(./images/bg-pattern-bottom-desktop.svg);
