@@ -32,7 +32,7 @@ header {
 .header {
   display: flex;
   flex-direction: column;
-  margin-right: 13rem;
+  margin-right:  13rem;
 }
 
 h1 {
