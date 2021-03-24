@@ -191,22 +191,6 @@ footer {
   color: var(--very-dark-magenta);
 }
 
-@media screen and (max-width: 480px) {
-  .cards {
-    flex-wrap: wrap;
-  }
-  
-  header {
-    flex-wrap: wrap;
-  }
-  body {
-    max-width: 80%;
-  }
-  .attribution {
-    max-width: 60%;
-  }
-
-}
 @media screen and (max-width: 990px) {
   .cards {
     flex-wrap: wrap;
@@ -223,3 +207,4 @@ footer {
   }
 
 }
+
