@@ -18,7 +18,7 @@ body {
     url(./images/bg-pattern-bottom-desktop.svg);
   background-repeat: no-repeat;
   background-position: top left, bottom right;
-  max-width: 700px;
+  max-width: 300px;
   margin: auto;
   max-height: 100vh;
   min-height: 100vh;
@@ -112,6 +112,7 @@ main {
   border-radius: 10px;
   margin: 10px;
   padding: 15px;
+  height: 100px;
 }
 
 .bg img {
