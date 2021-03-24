@@ -191,7 +191,7 @@ footer {
   color: var(--very-dark-magenta);
 }
 
-@media screen and (max-width: 990px) {
+@media screen and (max-width: 480px) {
   .cards {
     flex-wrap: wrap;
   }
