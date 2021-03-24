@@ -193,8 +193,14 @@ footer {
   .cards {
     flex-wrap: wrap;
   }
-  .header {
+  header {
     flex-wrap: wrap;
+  }
+  body {
+    max-width: 80%;
+  }
+  .attribution {
+    max-width: 50%;
   }
 
 }
