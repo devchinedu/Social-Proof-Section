@@ -54,6 +54,9 @@ h1 {
 }
 
 /* stars ====*/
+section{
+float: right;
+}
 
 .stars1 {
   background: var(--light-grayish-magenta);
