@@ -34,7 +34,7 @@ header {
 .header {
   display: flex;
   flex-direction: column;
-  margin-right: 20rem;
+  
 }
 
 h1 {
